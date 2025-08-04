@@ -17,6 +17,11 @@ A modern, user-friendly GUI application for encrypting and decrypting files usin
 - **📱 Responsive Design**: Android-style tabbed interface
 - **🛡️ Error Handling**: Comprehensive validation and error messages
 
+### 📷 Screenshot
+
+![Screenshot](front.png)
+![Screenshot](back.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
